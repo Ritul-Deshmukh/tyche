@@ -1,11 +1,15 @@
-#TYCHE
+TYCHE
 
-##Clone The Project 
+Clone The Project 
+
 https://github.com/Ritul-Deshmukh/tyche.git
 
-##Install dependencies
+
+Install dependencies
+
 cd tyche
 npm install
 
-##Run the program
+Run the program
+
 npm run start
