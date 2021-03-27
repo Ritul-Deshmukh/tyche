@@ -1,0 +1,93 @@
+.back{
+    background-color: #ffcce6;
+}
+.sel{
+    padding-top: 1%;
+    text-align: left;
+    padding-left: 2%;
+}
+.ord{
+    text-align: right;
+}
+.fon{
+    background-color: rgb(250, 215, 238);
+    border-color: rgb(250, 215, 238);
+    border-top-color: rgb(250, 215, 238);
+    border-bottom-color: rgb(250, 215, 238);
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fon1{
+    font-size: large;
+    padding-left: 7%;
+    padding-top: 2%;
+}
+.wid{
+    width: 20%;
+    text-align: center;
+    border-radius: 12px;
+    padding: 10px 24px;
+    border-color: none;
+}
+.forimg{
+    height: 2%;
+    width: 1%;
+}
+.forcart{
+    height: 10%;
+    width: 1.5%;
+}
+.foracc{
+    height: 10%;
+    width: 3%;
+}
+.forconvo{
+    height: 10%;
+    width: 7%;
+}
+.forfairy{
+    height: 10%;
+    width: 10%;
+}
+.forcloud{
+    padding-left: 65%;
+}
+.fortwo{
+    height: 50%;
+    width: 90%;
+}
+.forthree{
+    height: 50%;
+    width: 80%;
+}
+.button3 {
+    background-color: #f44336;
+    font-size: 20px;
+    color: cornsilk;
+}
+.forletter{
+    height: 10%;
+    width: 10%;
+}
+.formn{
+    font-weight: 500;
+}
+.wid1{
+    width: 15%;
+    text-align: center;
+    padding: 10px 24px;
+    border-color: none;
+}
+.button4 {
+    background-color: #f44336;
+    font-size: 24px;
+    color: cornsilk;
+}
+.contact{
+    color: red;
+    font-size: 45px;
+}
+.forlast{
+    height: 50%;
+    width: 80%;
+}
